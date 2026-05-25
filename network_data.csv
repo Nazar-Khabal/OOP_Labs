@@ -1,0 +1,6 @@
+node,protocol,packets,packet_size_kb,delay_ms,traffic_mb,status
+Router_1,TCP,1200,64,12,75.0,велика
+Router_2,UDP,950,32,8,29.6875,нормальна
+Switch_1,TCP,1500,64,15,93.75,велика
+Switch_2,UDP,700,16,6,10.9375,нормальна
+Server_1,TCP,2000,128,20,250.0,велика
